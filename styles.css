@@ -1,0 +1,232 @@
+@import "https://fonts.google.com/specimen/Raleway";
+body{
+  margin-left: 40px;
+margin-right: 40px;
+font-family: 'Raleway';
+  }
+  .topSection{
+  margin-top: 50px;
+  margin-bottom: 100px;
+}
+
+.topSection img{
+  width: 10%;
+
+}
+.topText{
+  display: flex;
+  flex-direction: row;
+  text-align: right;
+  align-items: right;
+  justify-content: right;
+}
+.babs{
+  margin-right: 20px;
+}
+.babe{
+  margin-right: 20px;
+}
+.bab{
+  margin-right: 20px;
+}
+.introSection{
+  color: hsl(243, 87%, 12%);
+  margin-bottom: 100px;
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+}
+.introSection img{
+  width: 45%;
+}
+.files h1{
+  font-weight: bolder;
+  font-size: 30px;
+}
+.files p{
+  font-size: 14px;
+}
+.files input{
+  padding: 5px 10px 5px 10px;
+}
+.files button{
+  padding: 10px 15px 10px 15px;
+  color: #fff;
+  background-color: hsl(224, 93%, 58%);
+  border-color: #fff;
+  border-radius: 5px;
+}
+.files button:hover{
+  background-color: #fff;
+  color: hsl(224, 93%, 58%);
+  border-color: hsl(224, 93%, 58%);
+}
+.accessSection{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 100px;
+  color:  hsl(243, 87%, 12%);
+}
+.illu{
+  width: 45%;
+}
+.secondPart h1{
+font-size: 30px;
+font-weight: bolder;
+}
+.mations{
+  font-size: 13px;
+}
+.fylo{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+  color: hsl(170, 45%, 43%);
+  text-decoration: underline;
+}
+.fylo img{
+  width: 5%;
+  margin-left: 10px;
+}
+.quote{
+  background-color:  hsl(240, 75%, 98%);
+  border-radius: 20px;
+  font-size: 14px;
+  margin-right: 100px;
+  text-align: left;
+  padding-left: 3px;
+}
+.quote img{
+  margin-left: 15px;
+}
+.ceoInfo{
+  display: flex;
+  flex-direction: row;
+  justify-content: left;
+}
+.ceoInfo img{
+  width: 15%;
+  border-radius: 100%;
+  margin-right: 10px;
+}
+.starter{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #fff;
+  background-color: hsl(238, 22%, 44%);
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-left: -80px;
+  margin-right: -40px;
+}
+.access{
+margin-left: 100px;
+
+}
+.access h1{
+  font-size: 25px;
+}
+.access p{
+  font-size: 12px;
+}
+.free{
+  margin-right: 100px;
+}
+.free input{
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 15px;
+  padding-right: 10px;
+  margin-top: 10px;
+  margin-right: 20px;
+  margin-bottom: 15px;
+}
+.free button{
+  padding: 5px 10px 5px 10px;
+  color: #fff;
+  background-color: hsl(224, 93%, 58%);
+  border-color: #fff;
+  border-radius: 5px;
+}
+.free button:hover{
+  background-color: #fff;
+  color: hsl(224, 93%, 58%);
+  border-color: hsl(224, 93%, 58%);
+}
+.lastSection{
+  background-color: hsl(243, 87%, 12%);
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  color: #fff;
+  font-size: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: -40px;
+  margin-right: -40px;
+}
+.phone{
+  margin-left: 20px;
+  margin-top: 20px;
+ flex-direction: row;
+}
+.phone img{
+  width: 50%;
+  filter: opacity(0.4) drop-shadow(0 0 0 white);
+
+}
+.number{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.mail{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+.about, .contact, .social{
+  margin-top: 50px;
+}
+.social{
+  margin-right: 40px;
+}
+.sion, .facebook, .twitter {
+  margin-right: 10px;
+  color:  hsl(224, 93%, 58%);
+
+}
+
+.sion, .facebook, .twitter:hover{
+  border-color:  hsl(224, 93%, 58%);;
+  color: #fff;
+
+}
+.attribution {
+  font-size: 11px;
+   text-align: center;
+
+   background-color: hsl(243, 87%, 12%);
+   display: flex;
+   justify-content: center;
+   color: #fff;
+   font-size: 10px;
+   padding-top: 10px;
+   padding-bottom: 10px;
+   margin-left: -40px;
+   margin-right: -40px;
+   margin-bottom: -40px;
+  }
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+ }
+ .attribution a:hover {
+color: hsl(170, 45%, 43%);
+}
